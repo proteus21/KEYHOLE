@@ -10,4 +10,4 @@ Polish version and only 1.0 without upgrades
 
 ![GUI Screen](https://user-images.githubusercontent.com/94799210/144132949-cbbb9998-9022-4079-a314-c9690f4115db.JPG)
 
- Software has installation application in .exe extension
+ Software has installation application in .exe extension. In director is file named "Wpust pryzmatyczny.exe"
